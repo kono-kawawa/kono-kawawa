@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=422&logoColor=white">
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
 
 <!--
 **kono-kawawa/kono-kawawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
