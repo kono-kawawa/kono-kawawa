@@ -7,7 +7,7 @@
   <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono-kawawa&layout=compact&bg_color=10,e96443,904e95&title_color=fff&text_color=fff">
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kono-kawawa&show_icons=true&theme=transparent">
+ <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kono-kawawa&show_icons=true&theme=transparent"> -->
 </p>
 </div>
 <!--
