@@ -1,6 +1,9 @@
 ### HOLA
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
+<div align=center><h1>📚 STACKS</h1></div>
 
+<div align=center>
+<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
+</div>
 <!--
 **kono-kawawa/kono-kawawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
