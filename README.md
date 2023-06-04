@@ -3,10 +3,11 @@
 
 <div align=center>
 <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white">
-</div>
-<p>
+  <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono-kawawa&layout=compact&bg_color=10,e96443,904e95&title_color=fff&text_color=fff">
-</p><!--
+</p>
+</div>
+<!--
 **kono-kawawa/kono-kawawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
