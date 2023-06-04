@@ -2,7 +2,7 @@
 <div align=center><h1>Hola</h1></div>
 
 <div align=center>
-<img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white">
+<img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white" width:200px>
  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Habr&logoColor=white">
   <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono-kawawa&layout=compact&bg_color=10,e96443,904e95&title_color=fff&text_color=fff">
