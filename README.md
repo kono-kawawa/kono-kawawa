@@ -6,6 +6,7 @@
  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=Habr&logoColor=white">
   <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono-kawawa&layout=compact&bg_color=10,e96443,904e95&title_color=fff&text_color=fff">
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </p>
 </div>
 <!--
