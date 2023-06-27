@@ -10,7 +10,7 @@
 </p>
 </div>
 <div align=center><h6>We're living in an immeasurable history of space and time Travelers who spend moments together and have wonderful adventures.</h6></div>
-<div align=center><h1>Most repositories are private. What you're looking for isn't here, so please go back.</h1></div>
+<div align=center><h3>Most repositories are private. What you're looking for isn't here, <br> so please go back.</h3></div>
 
 <!--
 **kono-kawawa/kono-kawawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
