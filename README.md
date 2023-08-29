@@ -8,13 +8,13 @@
  
 </p>
 </div>
-<div align=center><h5>생각하지 않습니다. 나의 코드,</h5></div>
-<div align=center><h5>실제로는 반죽의 스파데티입니까?</h5></div>
-<div align=center><h5>저 움찔거리는 콘솔창을 보십시오.</h5></div>
-<div align=center><h5>초대 받았다 모두 나의 장례식,</h5></div>
-<div align=center><h5>들썩거리고 있을 것입니다 나의 관,</h5></div>
-<div align=center><h5>시신의 공중제비.</h5></div>
-<div align=center><h5>행복의 4 일 것입니다.</h5></div>
+<div align=center><h2>생각하지 않습니다. 나의 코드,</h2></div>
+<div align=center><h2>실제로는 반죽의 스파게티입니까?</h2></div>
+<div align=center><h2>저 움찔거리는 콘솔창을 보십시오.</h2></div>
+<div align=center><h2>초대 받았다 모두 나의 장례식,</h2></div>
+<div align=center><h2>들썩거리고 있을 것입니다 나의 관,</h2></div>
+<div align=center><h2>시신의 공중제비.</h2></div>
+<div align=center><h2>행복의 4 일 것입니다.</h2></div>
 
 
 <!--<div align=center><h6>We're living in an immeasurable history of space and time Travelers who spend moments together and have wonderful adventures.</h6></div> -->
