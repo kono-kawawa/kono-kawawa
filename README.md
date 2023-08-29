@@ -12,7 +12,7 @@
 <div align=center><h5>실제로는 반죽의 스파데티입니까?</h5></div>
 <div align=center><h5>저 움찔거리는 콘솔창을 보십시오.</h5></div>
 <div align=center><h5>초대 받았다 모두 나의 장례식,</h5></div>
-<div align=center****><h5>들썩거리고 있을 것입니다 나의 관,</h5></div>
+<div align=center><h5>들썩거리고 있을 것입니다 나의 관,</h5></div>
 <div align=center><h5>시신의 공중제비.</h5></div>
 <div align=center><h5>행복의 4 일 것입니다.</h5></div>
 
