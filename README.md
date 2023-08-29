@@ -8,17 +8,17 @@
  
 </p>
 </div>
-<div><h5>생각하지 않습니다. 나의 코드,</h5></div>
-<div><h5>실제로는 반죽의 스파데티입니까?</h5></div>
-<div><h5>저 움찔거리는 콘솔창을 보십시오.</h5></div>
-<div><h5>초대 받았다 모두 나의 장례식,</h5></div>
-<div><h5>들썩거리고 있을 것입니다 나의 관,</h5></div>
-<div><h5>시신의 공중제비.</h5></div>
-<div><h5>행복의 4 일 것입니다.</h5></div>
+<div align=center><h5>생각하지 않습니다. 나의 코드,</h5></div>
+<div align=center><h5>실제로는 반죽의 스파데티입니까?</h5></div>
+<div align=center><h5>저 움찔거리는 콘솔창을 보십시오.</h5></div>
+<div align=center><h5>초대 받았다 모두 나의 장례식,</h5></div>
+<div align=center****><h5>들썩거리고 있을 것입니다 나의 관,</h5></div>
+<div align=center><h5>시신의 공중제비.</h5></div>
+<div align=center><h5>행복의 4 일 것입니다.</h5></div>
 
 
-<div align=center><h6>We're living in an immeasurable history of space and time Travelers who spend moments together and have wonderful adventures.</h6></div>
-<div align=center><h3>Most repositories are private. What you're looking for isn't here, <br> so please go back.</h3></div>
+<!--<div align=center><h6>We're living in an immeasurable history of space and time Travelers who spend moments together and have wonderful adventures.</h6></div> -->
+<!--<div align=center><h3>Most repositories are private. What you're looking for isn't here, <br> so please go back.</h3></div> --> 
 <img width="100%" src="https://github.com/kono-kawawa/kono-kawawa/assets/121002725/b1a3fadc-be30-47a4-91b2-8c3f99b7822a"/><br>
 
  <!-- height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kono-kawawa&layout=compact&bg_color=10,e96443,904e95&title_color=fff&text_color=fff" -->
