@@ -8,15 +8,13 @@
  
 </p>
 </div>
-<div align=center><h2>생각하지 않습니다. 나의 코드,</h2></div>
-<div align=center><h2>실제로는 반죽의 스파게티입니까?</h2></div>
-<div align=center><h2>저 움찔거리는 콘솔창을 보십시오.</h2></div>
-<div align=center><h2>초대 받았다 모두 나의 장례식,</h2></div>
-<div align=center><h2>들썩거리고 있을 것입니다 나의 관,</h2></div>
-<div align=center><h2>시신의 공중제비.</h2></div>
-<div align=center><h2>행복의 4 일 것입니다.</h2></div>
-우리강은(于里康銀) 개귀여어(凱歸蠡魚) 하고풍거(河鼓風去) 삭다해라(削多海蘿) 신의미모(神義美貌) 세상간지(世上間地) 용안에서(用安恚西) 비치난다(費治難多) 좌로인정(左虜人正) 우로인정(右虜人正) 압구루기(狎鷗漏器) 대굴대굴(大窟大窟) 매일이론(每日理論) 주접이라(主楪伊亽)
-
+<div align=center><h2>우리강은(于里康銀) 개귀여어(凱歸蠡魚)</h2></div>
+<div align=center><h2>하고풍거(河鼓風去) 삭다해라(削多海蘿)</h2></div>
+<div align=center><h2>신의미모(神義美貌) 세상간지(世上間地)</h2></div>
+<div align=center><h2>용안에서(用安恚西) 비치난다(費治難多)</h2></div>
+<div align=center><h2>좌로인정(左虜人正) 우로인정(右虜人正)</h2></div>
+<div align=center><h2>압구루기(狎鷗漏器) 대굴대굴(大窟大窟)</h2></div>
+<div align=center><h2>매일이론(每日理論) 주접이라(主楪伊亽)</h2></div>
 <!--<div align=center><h6>We're living in an immeasurable history of space and time Travelers who spend moments together and have wonderful adventures.</h6></div> -->
 <!--<div align=center><h3>Most repositories are private. What you're looking for isn't here, <br> so please go back.</h3></div> --> 
 <!--<img width="100%" src="https://github.com/kono-kawawa/kono-kawawa/assets/121002725/b1a3fadc-be30-47a4-91b2-8c3f99b7822a"/><br>-->
